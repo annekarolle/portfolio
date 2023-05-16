@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.3f18d9e0.css",
-    "main.js": "./static/js/main.1486a88d.js",
+    "main.css": "./static/css/main.e225e755.css",
+    "main.js": "./static/js/main.12976f2d.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
+    "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
+    "static/media/SL-122520-39240-27.png": "./static/media/SL-122520-39240-27.77cf74c2a11ae7634270.png",
     "static/media/desenho3.png": "./static/media/desenho3.d6d024b6e114a648565b.png",
-    "static/media/Projeto (20230413032631).png": "./static/media/Projeto (20230413032631).5d967ea0c19595630128.png",
-    "static/media/anne.png": "./static/media/anne.cfd6acd824440536c7ab.png",
+    "static/media/Projeto (20230413032631).png": "./static/media/Projeto (20230413032631).616e420ef1adceb2da3b.png",
+    "static/media/bg.png": "./static/media/bg.89a520f89813d8495fe2.png",
     "static/media/goianos.jpg": "./static/media/goianos.762c2acd5bc28d3bb453.jpg",
     "static/media/trickgirl.jpg": "./static/media/trickgirl.0d89ac5e74ca44179a26.jpg",
     "static/media/kenzimed.jpg": "./static/media/kenzimed.6a87cc9c32172deb19b9.jpg",
+    "static/media/welcome.png": "./static/media/welcome.6b0b4a55f11add3190cd.png",
+    "static/media/camada-desenho.png": "./static/media/camada-desenho.4689103b04aa8bca2878.png",
+    "static/media/camada-icon.png": "./static/media/camada-icon.28939d3a27d07bd9a953.png",
     "static/media/logo.png": "./static/media/logo.c453cf82c51d27908f0c.png",
+    "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
-    "main.3f18d9e0.css.map": "./static/css/main.3f18d9e0.css.map",
-    "main.1486a88d.js.map": "./static/js/main.1486a88d.js.map",
+    "main.e225e755.css.map": "./static/css/main.e225e755.css.map",
+    "main.12976f2d.js.map": "./static/js/main.12976f2d.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f18d9e0.css",
-    "static/js/main.1486a88d.js"
+    "static/css/main.e225e755.css",
+    "static/js/main.12976f2d.js"
   ]
 }
