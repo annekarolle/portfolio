@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.97874730.css",
-    "main.js": "./static/js/main.ed5b7011.js",
+    "main.js": "./static/js/main.7db799e1.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
     "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
     "static/media/SL-122520-39240-27.png": "./static/media/SL-122520-39240-27.77cf74c2a11ae7634270.png",
@@ -17,11 +17,11 @@
     "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
     "main.97874730.css.map": "./static/css/main.97874730.css.map",
-    "main.ed5b7011.js.map": "./static/js/main.ed5b7011.js.map",
+    "main.7db799e1.js.map": "./static/js/main.7db799e1.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97874730.css",
-    "static/js/main.ed5b7011.js"
+    "static/js/main.7db799e1.js"
   ]
 }
