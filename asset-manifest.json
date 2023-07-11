@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.97874730.css",
-    "main.js": "./static/js/main.f06b32a0.js",
+    "main.js": "./static/js/main.e643e242.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
     "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
     "static/media/SL-122520-39240-27.png": "./static/media/SL-122520-39240-27.77cf74c2a11ae7634270.png",
@@ -10,19 +10,21 @@
     "static/media/bg.png": "./static/media/bg.89a520f89813d8495fe2.png",
     "static/media/goianos.jpg": "./static/media/goianos.762c2acd5bc28d3bb453.jpg",
     "static/media/trickgirl.jpg": "./static/media/trickgirl.0d89ac5e74ca44179a26.jpg",
+    "static/media/magic.jpg": "./static/media/magic.94c7556e77132060cea8.jpg",
     "static/media/contact.jpg": "./static/media/contact.415dddecb56bcc4c17e6.jpg",
     "static/media/kenzimed.jpg": "./static/media/kenzimed.6a87cc9c32172deb19b9.jpg",
+    "static/media/g28.jpg": "./static/media/g28.a42f247104042d9649fe.jpg",
     "static/media/camada-desenho.png": "./static/media/camada-desenho.4689103b04aa8bca2878.png",
     "static/media/camada-icon.png": "./static/media/camada-icon.28939d3a27d07bd9a953.png",
     "static/media/logo.png": "./static/media/logo.c453cf82c51d27908f0c.png",
     "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
     "main.97874730.css.map": "./static/css/main.97874730.css.map",
-    "main.f06b32a0.js.map": "./static/js/main.f06b32a0.js.map",
+    "main.e643e242.js.map": "./static/js/main.e643e242.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97874730.css",
-    "static/js/main.f06b32a0.js"
+    "static/js/main.e643e242.js"
   ]
 }
