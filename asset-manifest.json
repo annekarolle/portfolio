@@ -1,30 +1,39 @@
 {
   "files": {
     "main.css": "./static/css/main.97874730.css",
-    "main.js": "./static/js/main.e643e242.js",
+    "main.js": "./static/js/main.b1f39b5b.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
     "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
-    "static/media/SL-122520-39240-27.png": "./static/media/SL-122520-39240-27.77cf74c2a11ae7634270.png",
-    "static/media/desenho3.png": "./static/media/desenho3.d6d024b6e114a648565b.png",
+    "static/media/magic.jpg": "./static/media/magic.4ebcd879a12d878d450e.jpg",
+    "static/media/g28.jpg": "./static/media/g28.e5f002aea087880d500d.jpg",
     "static/media/Projeto (20230413032631).png": "./static/media/Projeto (20230413032631).616e420ef1adceb2da3b.png",
-    "static/media/bg.png": "./static/media/bg.89a520f89813d8495fe2.png",
+    "static/media/trickgirl4.jpg": "./static/media/trickgirl4.7add1b2f79b6165eeff2.jpg",
     "static/media/goianos.jpg": "./static/media/goianos.762c2acd5bc28d3bb453.jpg",
+    "static/media/trickgirl2.jpg": "./static/media/trickgirl2.625ab95b8221f9d337fd.jpg",
+    "static/media/magic4.jpg": "./static/media/magic4.e34548a7a57c9b23abcf.jpg",
+    "static/media/g283.jpg": "./static/media/g283.3c55fa1195698db9ae99.jpg",
     "static/media/trickgirl.jpg": "./static/media/trickgirl.0d89ac5e74ca44179a26.jpg",
-    "static/media/magic.jpg": "./static/media/magic.94c7556e77132060cea8.jpg",
-    "static/media/contact.jpg": "./static/media/contact.415dddecb56bcc4c17e6.jpg",
+    "static/media/trickgirl3.jpg": "./static/media/trickgirl3.34058e79f712f8e00e9e.jpg",
     "static/media/kenzimed.jpg": "./static/media/kenzimed.6a87cc9c32172deb19b9.jpg",
-    "static/media/g28.jpg": "./static/media/g28.a42f247104042d9649fe.jpg",
+    "static/media/g284.jpg": "./static/media/g284.f5b09f53dff674ecab94.jpg",
+    "static/media/contact.jpg": "./static/media/contact.67ed1df06ab4fb6de7b1.jpg",
+    "static/media/contact4.jpg": "./static/media/contact4.2836cc2226017344c6c8.jpg",
     "static/media/camada-desenho.png": "./static/media/camada-desenho.4689103b04aa8bca2878.png",
+    "static/media/magic2.jpg": "./static/media/magic2.e21ee0376b564e734db2.jpg",
     "static/media/camada-icon.png": "./static/media/camada-icon.28939d3a27d07bd9a953.png",
+    "static/media/contact3.jpg": "./static/media/contact3.4849c54abc19a4499406.jpg",
+    "static/media/magic3.jpg": "./static/media/magic3.d73af8232c7e06265d98.jpg",
+    "static/media/contact2.jpg": "./static/media/contact2.40c250ebc978dbb50f3f.jpg",
+    "static/media/g282.jpg": "./static/media/g282.21547d0a35f52e84556a.jpg",
     "static/media/logo.png": "./static/media/logo.c453cf82c51d27908f0c.png",
     "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
     "main.97874730.css.map": "./static/css/main.97874730.css.map",
-    "main.e643e242.js.map": "./static/js/main.e643e242.js.map",
+    "main.b1f39b5b.js.map": "./static/js/main.b1f39b5b.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97874730.css",
-    "static/js/main.e643e242.js"
+    "static/js/main.b1f39b5b.js"
   ]
 }
