@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.97874730.css",
-    "main.js": "./static/js/main.b1f39b5b.js",
+    "main.js": "./static/js/main.33104867.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
     "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
     "static/media/magic.jpg": "./static/media/magic.4ebcd879a12d878d450e.jpg",
@@ -15,6 +15,8 @@
     "static/media/trickgirl.jpg": "./static/media/trickgirl.0d89ac5e74ca44179a26.jpg",
     "static/media/trickgirl3.jpg": "./static/media/trickgirl3.34058e79f712f8e00e9e.jpg",
     "static/media/kenzimed.jpg": "./static/media/kenzimed.6a87cc9c32172deb19b9.jpg",
+    "static/media/kenzimed2.jpg": "./static/media/kenzimed2.8aec163b3a869a898955.jpg",
+    "static/media/kenzimed3.jpg": "./static/media/kenzimed3.9c436414cd0e713b8401.jpg",
     "static/media/g284.jpg": "./static/media/g284.f5b09f53dff674ecab94.jpg",
     "static/media/contact.jpg": "./static/media/contact.67ed1df06ab4fb6de7b1.jpg",
     "static/media/contact4.jpg": "./static/media/contact4.2836cc2226017344c6c8.jpg",
@@ -29,11 +31,11 @@
     "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
     "main.97874730.css.map": "./static/css/main.97874730.css.map",
-    "main.b1f39b5b.js.map": "./static/js/main.b1f39b5b.js.map",
+    "main.33104867.js.map": "./static/js/main.33104867.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97874730.css",
-    "static/js/main.b1f39b5b.js"
+    "static/js/main.33104867.js"
   ]
 }
