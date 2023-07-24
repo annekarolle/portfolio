@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.97874730.css",
-    "main.js": "./static/js/main.33104867.js",
+    "main.js": "./static/js/main.c287d018.js",
     "static/js/787.72e73a50.chunk.js": "./static/js/787.72e73a50.chunk.js",
     "static/media/vista-do-papel-amarrotado-branco.jpg": "./static/media/vista-do-papel-amarrotado-branco.f71df50c14680fbb84bb.jpg",
     "static/media/magic.jpg": "./static/media/magic.4ebcd879a12d878d450e.jpg",
     "static/media/g28.jpg": "./static/media/g28.e5f002aea087880d500d.jpg",
-    "static/media/Projeto (20230413032631).png": "./static/media/Projeto (20230413032631).616e420ef1adceb2da3b.png",
+    "static/media/Projeto (20230413032631).png": "./static/media/Projeto (20230413032631).ccece5a054aeea68de30.png",
     "static/media/trickgirl4.jpg": "./static/media/trickgirl4.7add1b2f79b6165eeff2.jpg",
     "static/media/goianos.jpg": "./static/media/goianos.762c2acd5bc28d3bb453.jpg",
     "static/media/trickgirl2.jpg": "./static/media/trickgirl2.625ab95b8221f9d337fd.jpg",
@@ -14,12 +14,17 @@
     "static/media/g283.jpg": "./static/media/g283.3c55fa1195698db9ae99.jpg",
     "static/media/trickgirl.jpg": "./static/media/trickgirl.0d89ac5e74ca44179a26.jpg",
     "static/media/trickgirl3.jpg": "./static/media/trickgirl3.34058e79f712f8e00e9e.jpg",
+    "static/media/amaro5.jpg": "./static/media/amaro5.5326a44964f642146559.jpg",
+    "static/media/amaro.jpg": "./static/media/amaro.94d39a35e3a6368bf34e.jpg",
     "static/media/kenzimed.jpg": "./static/media/kenzimed.6a87cc9c32172deb19b9.jpg",
     "static/media/kenzimed2.jpg": "./static/media/kenzimed2.8aec163b3a869a898955.jpg",
     "static/media/kenzimed3.jpg": "./static/media/kenzimed3.9c436414cd0e713b8401.jpg",
     "static/media/g284.jpg": "./static/media/g284.f5b09f53dff674ecab94.jpg",
+    "static/media/amaro4.jpg": "./static/media/amaro4.a8d6e78784437d35b738.jpg",
     "static/media/contact.jpg": "./static/media/contact.67ed1df06ab4fb6de7b1.jpg",
     "static/media/contact4.jpg": "./static/media/contact4.2836cc2226017344c6c8.jpg",
+    "static/media/amaro3.jpg": "./static/media/amaro3.9b5cdfefc9b9a70498bf.jpg",
+    "static/media/amaro2.jpg": "./static/media/amaro2.7dc864ce2441a77b9b23.jpg",
     "static/media/camada-desenho.png": "./static/media/camada-desenho.4689103b04aa8bca2878.png",
     "static/media/magic2.jpg": "./static/media/magic2.e21ee0376b564e734db2.jpg",
     "static/media/camada-icon.png": "./static/media/camada-icon.28939d3a27d07bd9a953.png",
@@ -31,11 +36,11 @@
     "static/media/icon.png": "./static/media/icon.b6c143ad28eb130633ba.png",
     "index.html": "./index.html",
     "main.97874730.css.map": "./static/css/main.97874730.css.map",
-    "main.33104867.js.map": "./static/js/main.33104867.js.map",
+    "main.c287d018.js.map": "./static/js/main.c287d018.js.map",
     "787.72e73a50.chunk.js.map": "./static/js/787.72e73a50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97874730.css",
-    "static/js/main.33104867.js"
+    "static/js/main.c287d018.js"
   ]
 }
